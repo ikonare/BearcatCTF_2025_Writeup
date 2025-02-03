@@ -1,11 +1,11 @@
 # BearcatCTF_2025_Writeup
 
 ## web
-- global-redirect (100)
+- global-redirect (100) [solved](/web/global_redirect)
 - unhealthy 2 the sequal (500)
 
 ## rev
-- say cheese (150)
+- say cheese (150) [solved](/rev/say_cheese)
 - easy encrypt (300)
 - Shimbles the E-L-F (450)
 - Turing Approved (600)
